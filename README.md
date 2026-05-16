@@ -1,19 +1,4 @@
 
-# Cloud Monitoring and Alerts using AWS CloudWatch
-
-## COMPANY : CODTECH IT SOLUTIONS
-
-## NAME : BHUSHAN BAPEDKAR
-
-## INTERN ID : CT04DG000
-
-## DOMAIN : CLOUD COMPUTING
-
-## DURATION : 4 WEEKS
-
-## MENTOR : NEELA SANTOSH
-
-
 
 # 🚀 Task 2: Cloud Monitoring and Alerts using AWS CloudWatch
 
